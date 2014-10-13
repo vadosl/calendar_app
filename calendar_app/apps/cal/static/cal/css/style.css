@@ -1,0 +1,21 @@
+* {
+    color: #555;
+    font-size: 0.95em;
+}
+
+
+h4 {
+    color: red;
+}
+.month, .current {
+    color: green;
+    display: table-cell;
+    width: 100px;
+    border: 10px
+
+}
+.reminders{
+    float: right;
+    font-style: italic;
+    color: red;
+}
